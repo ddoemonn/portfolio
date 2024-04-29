@@ -2,10 +2,10 @@
 
 import PageLayout from '@/layout/PageLayout';
 
-export default function NavigationMenuDemo() {
+export default function About() {
   return (
     <PageLayout>
-      <p>hey</p>
+      <p>posts</p>
     </PageLayout>
   );
 }
